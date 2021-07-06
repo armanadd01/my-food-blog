@@ -148,7 +148,7 @@ h1 span{
 }
 
 #backgroound-two {
-	background-image: url("images/shapes/food-banner3.jpg");
+	background-image: url("images/shapes/food-banner4.jpg");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -195,6 +195,47 @@ h1 span{
 }
 .fifth-section{
 	margin-bottom: 10px;
+	padding-top: 20px;
+}
+
+.sixth-section {
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.food-item {
+	width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+.food-item h3 {
+	font-weight: 800;
+	font-size: 38px;
+	font-style: italic;
+	text-align: center;
+	color: #10893E;
+}
+
+.one-forth {
+	width: 18%;
+	float: left;
+	margin: 0 auto;
+	margin-left: 5%;
+	padding-right: 2%;
+}
+.one-forth img {
+	width: 50%;
+	border-radius: 50%;
+	border: 1px solid #FF9800;
+	display: block;
+    margin: 0 auto;
+}
+.one-forth p{
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: 700;
 }
 .footer-section {
 	background-color: #1B1924;
